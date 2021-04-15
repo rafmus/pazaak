@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/untitled.dir/main.cpp.o CMakeFiles/untitled.dir/Deck.cpp.o CMakeFiles/untitled.dir/PazaakLogic.cpp.o CMakeFiles/untitled.dir/Player.cpp.o CMakeFiles/untitled.dir/HumanPlayer.cpp.o CMakeFiles/untitled.dir/ComputerPlayer.cpp.o  -o untitled 

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sylwia/CLionProjects/untitled/ComputerPlayer.cpp
+iostream
+-
+ComputerPlayer.h
+/home/sylwia/CLionProjects/untitled/ComputerPlayer.h
+
+/home/sylwia/CLionProjects/untitled/ComputerPlayer.h
+Player.h
+/home/sylwia/CLionProjects/untitled/Player.h
+cmath
+-
+
+/home/sylwia/CLionProjects/untitled/Deck.h
+ctime
+-
+
+/home/sylwia/CLionProjects/untitled/Player.h
+Deck.h
+/home/sylwia/CLionProjects/untitled/Deck.h
+
